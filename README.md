@@ -1,9 +1,8 @@
 # aplikasi-project-2
 
 sebuah aplikasi dengan fitur login
-
-alur fitur login
-
-1. Memasukkan email dan password
-2. Memvalidasi masukan
-3. Menampilkan halaman beranda
+--
+ Berikut alur fitur login
+- Memasukkan email dan password
+- Memvalidasi masukan
+- Menampilkan halaman beranda
